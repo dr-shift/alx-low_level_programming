@@ -5,15 +5,7 @@
 #include <stdio.h>
 
 
-/**
-
- * Determining if a number is positive, negative or zero.
-
- *
-
- *using time to generate random numbers
-
- */
+/*Determining if a number is positive, negative or zero*/
 
 int main(void)
 
