@@ -1,0 +1,1 @@
+Mystatic library
